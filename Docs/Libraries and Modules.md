@@ -2,10 +2,10 @@ Working with external libraries in Python makes use of the `import` keyword. W
 
 ## Table of Contents
 
-- [[#Libraries|Libraries]]
-- [[#Modules|Modules]]
-- [[#Tests|Tests]]
-- [[#Request Library|Request Library]]
+- [Libraries](#Libraries)
+- [Modules](#Modules)
+- [Tests](#Tests)
+- [Request-Library](#Request-Library)
 
 ## Libraries
 
