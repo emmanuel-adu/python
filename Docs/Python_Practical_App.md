@@ -1,9 +1,9 @@
 ## Table of Content
 
-- [[#Working with Files|Working with Files]]
-- [[#Exceptions|Exceptions]]
-- [[#Libraries and Modules|Libraries and Modules]]
-- [[#Virtual Environment|Virtual Environment]]
+- [Working with Files](#Working-with-Files)
+- [Exceptions](#Exceptions)
+- [Libraries and Modules](#Libraries-and-Modules)
+- [Virtual Environment](#Virtual-Environment)
 
 ## Working with Files
 ### Open Files
