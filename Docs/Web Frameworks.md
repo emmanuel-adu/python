@@ -1,7 +1,7 @@
 ## Table of Contents
 
-- [[#Django|Django]]
-- [[#Flask|Flask]]
+- [Django](#Django)
+- [Flask](#Flask)
 
 Web frameworks are designed to support creating web applications while simplifying and abstracting away a lot of what happens under the hood.
 
