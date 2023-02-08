@@ -1,9 +1,9 @@
 ## Table of Content
 
-- [[#Object Oriented Programming|Object Oriented Programming]]
-- [[#Classes|Classes]]
-- [[#Methods|Methods]]
-- [[#Inheritance|Inheritance]]
+- [Object Oriented Programming](#Object-Oriented-Programming)
+- [Classes](#Classes)
+- [Methods](#Methods)
+- [Inheritance](#Inheritance)
 
 ## Object Oriented Programming
 
