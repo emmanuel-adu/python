@@ -6,7 +6,7 @@
 - [Data Types](#Data-Types)
 - [Functions](#Functions)
 - [Boolean Logic](#Boolean-Logic)
-- [`if` Statement and Conditionals](#`if`-Statement-and-Conditionals)
+- [if Statement and Conditionals](#`if`-Statement-and-Conditionals)
 - [Loops](#Loops)
 - [Comprehensions](#Comprehensions)
 - [Slicing](#Slicing)
@@ -527,7 +527,7 @@ False
 | `True`  	| `False`	|
 | `False` 	| `True` 	|
 
-##  `if` Statement and Conditionals
+##  if Statement and Conditionals
 
 `if` in Python means: **only run the rest of this code once, *if* the condition evaluates to `True`.** 
 
