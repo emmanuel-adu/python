@@ -1,15 +1,15 @@
 ## Table of Content
 
-- [[#Python REPL|Python REPL]]
-- [[#Mutability|Mutability]]
-- [[#Common Data Types|Common Data Types]]
-- [[#Data Types|Data Types]]
-- [[#Functions|Functions]]
-- [[#Boolean Logic|Boolean Logic]]
-- [[#`if` Statement and Conditionals|`if` Statement and Conditionals]]
-- [[#Loops|Loops]]
-- [[#Comprehensions|Comprehensions]]
-- [[#Slicing|Slicing]]
+- [Python REPL](#Python-REPL)
+- [Mutability](#Mutability)
+- [Common Data Types](#Common-Data-Types)
+- [Data Types](#Data-Types)
+- [Functions](#Functions)
+- [Boolean Logic](#Boolean-Logic)
+- [`if` Statement and Conditionals](#`if`-Statement-and-Conditionals)
+- [Loops](#Loops)
+- [Comprehensions](#Comprehensions)
+- [Slicing](#Slicing)
 
 ## Python REPL
 
